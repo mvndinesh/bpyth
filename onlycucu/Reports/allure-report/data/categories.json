@@ -1,0 +1,49 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError\n",
+      "children" : [ {
+        "name" : "Blenders -- @1.1 Amphibians",
+        "uid" : "aca802ea82cfdfde",
+        "parentUid" : "a730cf0b0a23aabea6d11aa0391c8a76",
+        "status" : "failed",
+        "time" : {
+          "start" : 1531706182915,
+          "stop" : 1531706188597,
+          "duration" : 5682
+        },
+        "flaky" : true,
+        "parameters" : [ "mush", "Red Tree  Frog" ]
+      }, {
+        "name" : "Blenders -- @2.1 Consumer Electronics",
+        "uid" : "31f674e08e0242fb",
+        "parentUid" : "a730cf0b0a23aabea6d11aa0391c8a76",
+        "status" : "failed",
+        "time" : {
+          "start" : 1531706188599,
+          "stop" : 1531706193513,
+          "duration" : 4914
+        },
+        "flaky" : true,
+        "parameters" : [ "toxic waste", "iphone" ]
+      }, {
+        "name" : "Blenders -- @2.2 Consumer Electronics",
+        "uid" : "eeddad129ce34737",
+        "parentUid" : "a730cf0b0a23aabea6d11aa0391c8a76",
+        "status" : "failed",
+        "time" : {
+          "start" : 1531706193514,
+          "stop" : 1531706198427,
+          "duration" : 4913
+        },
+        "flaky" : true,
+        "parameters" : [ "toxic waste", "Galaxy Nexus" ]
+      } ],
+      "uid" : "a730cf0b0a23aabea6d11aa0391c8a76"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

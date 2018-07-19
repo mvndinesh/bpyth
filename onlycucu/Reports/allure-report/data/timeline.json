@@ -1,0 +1,41 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Blenders -- @2.1 Consumer Electronics",
+    "uid" : "31f674e08e0242fb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1531706188599,
+      "stop" : 1531706193513,
+      "duration" : 4914
+    },
+    "flaky" : true,
+    "parameters" : [ "toxic waste", "iphone" ]
+  }, {
+    "name" : "Blenders -- @2.2 Consumer Electronics",
+    "uid" : "eeddad129ce34737",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1531706193514,
+      "stop" : 1531706198427,
+      "duration" : 4913
+    },
+    "flaky" : true,
+    "parameters" : [ "toxic waste", "Galaxy Nexus" ]
+  }, {
+    "name" : "Blenders -- @1.1 Amphibians",
+    "uid" : "aca802ea82cfdfde",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1531706182915,
+      "stop" : 1531706188597,
+      "duration" : 5682
+    },
+    "flaky" : true,
+    "parameters" : [ "mush", "Red Tree  Frog" ]
+  } ]
+}
