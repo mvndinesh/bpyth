@@ -1,6 +1,7 @@
-@CALC-1958
+@slow
 Feature: mysecond feature
-@TEST_CALC-1957
+
+@fixture.browsertype.chrome
 Scenario Outline: Blenders
   Given I put <thing> in a blender,
   When I switch the blender on
